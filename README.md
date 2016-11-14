@@ -11,4 +11,3 @@ There are various sub projects:
 
 - Team Slack: hbsmith-tiamat.slack.com
 - Mailing List: tiamat-dev@hbsmith.io
-s
