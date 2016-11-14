@@ -1,20 +1,14 @@
-# Project Tiamat
+# Introduction
 
-Project Tiamat is a quick-starting bootstrap templates for AWS provisioning.
-This project backed by [HBSmith co. ltd.](https://hbsmith.io)
+Tiamat is a free and open-source software platform for provisioning backend system with AWS.
 
-## Sub Project
+There are various sub projects:
+- [Johanna](https://github.com/HardBoiledSmith/johanna): CLI tool.
+- [Raynor](https://github.com/HardBoiledSmith/raynor): Web based GUI.
+- [Lili](https://github.com/HardBoiledSmith/lili): Vagrant VM for development and test.
 
-### Johanna
-https://github.com/HardBoiledSmith/johanna
-
-### Raynor
-https://github.com/HardBoiledSmith/raynor
-
-### Lili
-https://github.com/HardBoiledSmith/lili
-
-## Contact & Discussion
+# Contact & Discussion
 
 - Team Slack: hbsmith-tiamat.slack.com
 - Mailing List: tiamat-dev@hbsmith.io
+s
